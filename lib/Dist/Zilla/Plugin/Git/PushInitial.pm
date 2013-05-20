@@ -113,7 +113,7 @@ sub after_mint {
 
 =item * L<Minting Profiles Tutorial|http://dzil.org/tutorial/minting-profile.html>
 
-=item * L<Dist::Zilla::Plugin::Git::Init>>
+=item * L<Dist::Zilla::Plugin::Git::Init>
 
 =item * L<Dist::Zilla::Plugin::GitHub::Create>
 
