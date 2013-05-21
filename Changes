@@ -1,6 +1,7 @@
 Revision history for Dist::Zilla::Plugin::Git::PushInitial
 
 {{$NEXT}}
+    - fix POD error (karenetheridge)
 
 0.01 2013-02-20 16:43:23
     - initial release
